@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWallet2021</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category_array">
+        <item>Exponse</item>
+        <item>Salary</item>
+        <item>Extra income</item>
+    </string-array>
+</resources>
